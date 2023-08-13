@@ -1,0 +1,9 @@
+Very implementation easy and processing lite algorithm. 
+
+But might not give the best results as per real time costs.
+
+Here here might be routing done on previously found costs of the edges 
+
+as there arent any race conditions being used.
+
+Choosing correct values of x,y,z is important based on previous data.

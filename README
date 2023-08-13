@@ -1,0 +1,9 @@
+The router class is defined in the router.py file which will be called from ospf.py file.
+Go to the directory with ospf, rout and input.
+
+Run the command "python3 ospf.py -f input.txt -z 1 -a 5 -s 20 -e 60"
+
+output files to print the tables willbe created in the same directory
+
+We can also set e inside the ospf.py file to define how long do u want the 
+network of routers to run by passing as ommand line argument.
